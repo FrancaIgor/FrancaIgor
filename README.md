@@ -1,7 +1,7 @@
 ### Hi there, i'm Igor Franca 👋
 
 * Undergraduated in Computer Science at Federal University of Campina Grande
-* I’m currently working on Codex Jr.
+* I’m currently working on Virtus.
 
 <!--
 **FrancaIgor/FrancaIgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
